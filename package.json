@@ -1,0 +1,17 @@
+{
+    "title": "Blinky",
+    "name": "markwinton.blinky",
+    "description": "A Brackets theme from the 600 Bazaars",
+    "homepage": "https://github.com/markwinton/blinky",
+    "version": "1.0.0",
+    "author": "Mark Winton <winton.mark@icloud.com>",
+    "license": "MIT",
+    "engines": {
+      "brackets": ">=0.42.0"
+    },
+    "theme": {
+      "file": "theme.less",
+      "dark": true
+    },
+    "keywords": ["theme"]
+}
